@@ -1,0 +1,74 @@
+.upVoted {
+    opacity: 0.7;
+}
+
+.downVoted {
+    opacity: 0.7;
+}
+
+.votes {
+    position: relative;
+    top: 14px;
+    right: 55px;
+}
+
+.topic {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+}
+
+.errors {
+    width: 20%;
+    position: relative;
+    left: 78%;
+    bottom: 410px;
+}
+
+.link {
+    margin-top: 7px;
+    margin-left: 40px;
+}
+
+.submitButton {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.ballot {
+    position: absolute;
+    left: 25%;
+    top: 20%;
+    padding: 15px;
+}
+
+.readMore {
+    position: absolute;
+    bottom: 5%;
+    left: 66%;
+}
+
+.info {
+    width: 20%;
+    line-height: 35px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+textarea {
+    resize: none;
+}
+
+.voteTitle {
+    font-size: 45px;
+    text-align: center;
+    word-spacing: 20px;
+
+}
+
+.topicName {
+    font-weight: bold;
+    text-align: center;
+}
