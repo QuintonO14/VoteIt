@@ -22,4 +22,5 @@
             </div>
         </div>
     </div>
+    <li class="votes">You have casted {{$votes}} votes</li>
 @endsection
